@@ -14,3 +14,7 @@
 - Which colors sell best in certain seasons
 - What are our most frequent payment methods
 - How much money is a user spending on average?
+- Is there a correlation between previous purchases and review rating
+- Which frequency of purchases segment generates the most revenue
+- What is the 'Bundle Potential' of items?
+- What is the 'Spending Power' by Age Group?
