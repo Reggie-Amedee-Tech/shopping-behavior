@@ -7,3 +7,10 @@
 - Where did you get this data from and how up to date is it?
 - What are some KPI's that you're hoping to achieve with this data?
 - Do you know if this data is accurate?
+
+- What are the top products that our users are buying based on gender
+- What are our best/worst markets(Location)?
+- Which price range do we see the most success in terms of purchase volume
+- Which colors sell best in certain seasons
+- What are our most frequent payment methods
+- How much money is a user spending on average?
