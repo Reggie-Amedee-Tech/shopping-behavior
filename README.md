@@ -18,3 +18,40 @@
 - Which frequency of purchases segment generates the most revenue
 - What is the 'Bundle Potential' of items?
 - What is the 'Spending Power' by Age Group?
+
+
+# Questions chosen for analysis
+
+### What are the top products that our users are buying based on gender
+
+It appears that the top products purchased by **men** are **Sunglasses, shorts, dress, running shoes, and handbags.**
+
+It appears that the top products purchased by **women** are **shorts, running shoes, sunglasses, t shirts, and dresses.**
+
+Based on these findings, these types of clothings should take precedent when we decide what to manufacture.
+
+### What are our best markets
+
+We use two metrics to determine what success looks like in a specific market. Those metrics are a total dollar value and the average dollar value spent in a specific market.
+
+Based on these metrics, total dollar value spent by location are, **California, Nebraska, Delaware, West Virginia, Idaho, Indiana, Montana, Maryland, New York, and Nevada** 
+
+Based on these metrics, average dollar value spent by location are, **Indiana, Hawaii, Iowa, Missouri, Massachusetts, South Carolina, Florida, West Virginia, Nebraska, and North Carolina** 
+
+What is interesting is, total value of items purchased doesn't necessarily equate to highest average value of items purchased. For example, California doesn't crack the top 10 avg but is the state that spent the most money.
+
+Indiana is number one in terms of highest avg spent yet number 5 in total value spent. 
+
+### Which price range do we see the most success in terms of purchase volume
+
+We categorized our price range within 4 buckets, **low, mid, high, and exceptional.** 
+- Low: price range from $10 - $24.99
+- Mid: price range from $25.00 - 43.99
+- High: price range from $44.00 - 58.99
+- Exceptional: price range from $59.00 - 73.99
+
+Pricing items in mid bucket proved to be very successful. High bucket is also successful as well. When we are pricing an item, falling within mid to high buckets can yield more profit.
+
+### Is there a correlation between previous purchases and review rating
+
+People that left ratings of 4.0 total previous purchases is over 100% more than people who left a rating of 2.0. We can safely assume that the higher rating a customer gives an item, the likelihood of them of them having previous purchases increases!
