@@ -55,3 +55,19 @@ Pricing items in mid bucket proved to be very successful. High bucket is also su
 ### Is there a correlation between previous purchases and review rating
 
 People that left ratings of 4.0 total previous purchases is over 100% more than people who left a rating of 2.0. We can safely assume that the higher rating a customer gives an item, the likelihood of them of them having previous purchases increases!
+
+### Required Analytical Questions
+- What are the most popular colors by season?
+    - Fall: Brown, Ruby Red, Burnt Orange, Terra Cotta, Muted MUSTAAAAAAAAAAAAAAAAAAAAAARD Yellow
+    - Winter: Lemon Yellow, Pale peach, Lavender, White, Periwinkle
+    - Spring: Baby blue, White, Pale peach, Lavender, Periwinkle
+    - Summer: Lavender, Lemon yellow, Periwinkle, Pale peach, Fuchsia
+- What is the most popular clothing item by season
+    - Fall: Socks
+    - Spring: Running Shoes
+    - Summer: Shorts
+    - Winter: Leggings
+- What is the effect of promo codes on the dollar amount of purchases
+    - Promo codes increases our revenue significantly! There is a direct correlation between promo codes and the amount of items purchased total that we recieve
+- When do users leave a review
+    - Users typically leave a review when their purchase pattern falls in our bi-weekly, monthly, and quarterly buckets.
